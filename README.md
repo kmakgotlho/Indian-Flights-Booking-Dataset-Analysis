@@ -73,6 +73,6 @@ flight-price-analysis/
 ## 📷 Sample Visualizations
 
 ```markdown
-![Destination cities vs No. of flights](Destination cities vs No. of flights.png)
+![Destination cities vs No. of flights]([Destination cities vs No. of flights.png](https://github.com/kmakgotlho/Indian-Flights-Booking-Dataset-Analysis/blob/af3812961e0004f7db78140202d24ecc0c681e67/Destination%20cities%20vs%20No.%20of%20flights.png))
 ![Flight Departure Time Distribution](images/departure_time_dist.png)
 
