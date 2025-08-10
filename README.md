@@ -73,6 +73,6 @@ flight-price-analysis/
 ## 📷 Sample Visualizations
 
 ```markdown
-![Average Ticket Prices by Airline](images/avg_price_by_airline.png)
+![Destination cities vs No. of flights](Destination cities vs No. of flights.png)
 ![Flight Departure Time Distribution](images/departure_time_dist.png)
 
